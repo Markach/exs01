@@ -1,0 +1,15 @@
+D:\введение в С#\Hello\Exsamp001\bin\Debug\net6.0\Exsamp001.exe
+D:\введение в С#\Hello\Exsamp001\bin\Debug\net6.0\Exsamp001.deps.json
+D:\введение в С#\Hello\Exsamp001\bin\Debug\net6.0\Exsamp001.runtimeconfig.json
+D:\введение в С#\Hello\Exsamp001\bin\Debug\net6.0\Exsamp001.dll
+D:\введение в С#\Hello\Exsamp001\bin\Debug\net6.0\Exsamp001.pdb
+D:\введение в С#\Hello\Exsamp001\obj\Debug\net6.0\Exsamp001.csproj.AssemblyReference.cache
+D:\введение в С#\Hello\Exsamp001\obj\Debug\net6.0\Exsamp001.GeneratedMSBuildEditorConfig.editorconfig
+D:\введение в С#\Hello\Exsamp001\obj\Debug\net6.0\Exsamp001.AssemblyInfoInputs.cache
+D:\введение в С#\Hello\Exsamp001\obj\Debug\net6.0\Exsamp001.AssemblyInfo.cs
+D:\введение в С#\Hello\Exsamp001\obj\Debug\net6.0\Exsamp001.csproj.CoreCompileInputs.cache
+D:\введение в С#\Hello\Exsamp001\obj\Debug\net6.0\Exsamp001.dll
+D:\введение в С#\Hello\Exsamp001\obj\Debug\net6.0\refint\Exsamp001.dll
+D:\введение в С#\Hello\Exsamp001\obj\Debug\net6.0\Exsamp001.pdb
+D:\введение в С#\Hello\Exsamp001\obj\Debug\net6.0\Exsamp001.genruntimeconfig.cache
+D:\введение в С#\Hello\Exsamp001\obj\Debug\net6.0\ref\Exsamp001.dll
