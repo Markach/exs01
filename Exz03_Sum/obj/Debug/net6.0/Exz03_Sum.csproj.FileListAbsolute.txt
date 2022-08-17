@@ -1,0 +1,15 @@
+D:\введение в С#\Hello\Exz03_Sum\bin\Debug\net6.0\Exz03_Sum.exe
+D:\введение в С#\Hello\Exz03_Sum\bin\Debug\net6.0\Exz03_Sum.deps.json
+D:\введение в С#\Hello\Exz03_Sum\bin\Debug\net6.0\Exz03_Sum.runtimeconfig.json
+D:\введение в С#\Hello\Exz03_Sum\bin\Debug\net6.0\Exz03_Sum.dll
+D:\введение в С#\Hello\Exz03_Sum\bin\Debug\net6.0\Exz03_Sum.pdb
+D:\введение в С#\Hello\Exz03_Sum\obj\Debug\net6.0\Exz03_Sum.csproj.AssemblyReference.cache
+D:\введение в С#\Hello\Exz03_Sum\obj\Debug\net6.0\Exz03_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\введение в С#\Hello\Exz03_Sum\obj\Debug\net6.0\Exz03_Sum.AssemblyInfoInputs.cache
+D:\введение в С#\Hello\Exz03_Sum\obj\Debug\net6.0\Exz03_Sum.AssemblyInfo.cs
+D:\введение в С#\Hello\Exz03_Sum\obj\Debug\net6.0\Exz03_Sum.csproj.CoreCompileInputs.cache
+D:\введение в С#\Hello\Exz03_Sum\obj\Debug\net6.0\Exz03_Sum.dll
+D:\введение в С#\Hello\Exz03_Sum\obj\Debug\net6.0\refint\Exz03_Sum.dll
+D:\введение в С#\Hello\Exz03_Sum\obj\Debug\net6.0\Exz03_Sum.pdb
+D:\введение в С#\Hello\Exz03_Sum\obj\Debug\net6.0\Exz03_Sum.genruntimeconfig.cache
+D:\введение в С#\Hello\Exz03_Sum\obj\Debug\net6.0\ref\Exz03_Sum.dll
